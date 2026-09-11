@@ -63,8 +63,8 @@ Project_bike_races/
 
 Clone the repository:
 ```bash
-git clone https://github.com/v1qtor/python-web-scraping.git
-cd python-web-scraping
+git clone https://github.com/v1qtor/bike-racing-web-scraping.git
+cd bike-racing-web-scraping
 ```
 
 Install dependencies:
